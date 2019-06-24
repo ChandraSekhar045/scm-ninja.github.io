@@ -1,3 +1,4 @@
+*.log
 ignoreThisFileInCommit.txt
 _site/
 .sass-cache/
