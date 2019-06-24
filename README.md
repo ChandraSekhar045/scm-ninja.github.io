@@ -6,3 +6,4 @@ Trying out Pages
 # More Information
 
 #### This is a Git Hub project
+Adding more text
