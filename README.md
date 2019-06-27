@@ -7,3 +7,4 @@ Trying out Pages
 
 #### This is a Git Hub project
 Adding more text
+Text added in master
