@@ -9,4 +9,8 @@ Trying out Pages
 Adding more text
 Text added in master
 
-Text updated in mybranch to create rebase conflict
+
+Text added in master to create rebase conflict
+commit in master , updated README.md
+
+final update made in master resolve rebase conflict
