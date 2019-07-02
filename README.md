@@ -15,3 +15,5 @@ commit in master , updated README.md
 
 final update made in master resolve rebase conflict
 more update
+
+Update made for GIT STASH demo
