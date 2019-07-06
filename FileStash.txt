@@ -1,1 +1,2 @@
 File created for GIT STASH project demo
+Updated for multiple stash demo
