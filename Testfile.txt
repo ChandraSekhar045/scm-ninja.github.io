@@ -8,3 +8,5 @@ updating in the develop branch
 Section 53 rebase at the remote repository
 
 Updating the text for GIT STASH concept
+
+Updated for branch stash demo
